@@ -1,6 +1,5 @@
 /* NitroPack */
 
-
 jQuery(document).ready(function(){
 
 setTimeout(function(){
